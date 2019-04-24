@@ -425,8 +425,3 @@
 # ec = ElectricCar("tesla", "s", "red")
 
 # ec.printCarType()
-
-
-
-
-
